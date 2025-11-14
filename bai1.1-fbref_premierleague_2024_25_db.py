@@ -7,9 +7,6 @@ import pandas as pd
 import time, re, sqlite3, os
 from io import StringIO
 
-# ============================
-# ⚽ Danh sách đội Premier League 2024-25
-# ============================
 teams = {
     "Arsenal": "18bb7c10",
     "Aston Villa": "8602292d",
@@ -20,7 +17,7 @@ teams = {
     "Crystal Palace": "47c64c55",
     "Everton": "d3fd31cc",
     "Fulham": "fd962109",
-    "Ipswich Town": "facb2d1d",
+    "Ipswich Town": "b74092de",
     "Leicester City": "a2d435b3",
     "Liverpool": "822bd0ba",
     "Manchester City": "b8fd03ef",
@@ -47,6 +44,8 @@ options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+
+
 stealth(driver,
         languages=["en-US", "en"],
         vendor="Google Inc.",
@@ -59,7 +58,7 @@ all_teams_data = []
 
 def scrape_team(team_name, team_id):
     url = f"{BASE_URL}{team_id}/{SEASON}/{team_name.replace(' ', '-')}-Stats"
-    print(f"\n⚽ Đang cào dữ liệu {team_name} ({url})")
+    print(f"\nĐang cào dữ liệu {team_name} ({url})")
     driver.get(url)
     time.sleep(7)
 
@@ -169,6 +168,16 @@ for team_name, team_id in teams.items():
 if all_teams_data:
     combined = pd.concat(all_teams_data, ignore_index=True).fillna("N/a")
     db_path = os.path.join(DATA_DIR, "premierleague_2024_25.db")
+
+    invalid_names = ["Opponent Total", "Squad Total"]
+
+    before_count = len(combined)
+
+    combined["Player"] = combined["Player"].astype(str).str.strip()
+
+    combined = combined[~combined["Player"].isin(invalid_names)]
+
+    after_count = len(combined)
 
     conn = sqlite3.connect(db_path)
     combined.to_sql("player_stats", conn, if_exists="replace", index=False)
