@@ -1,483 +1,483 @@
-Player,Team,Position_group,market_value_million,predicted_value_million
-Ben White,Arsenal,DEF,45.0,23.30666666666667
-Bukayo Saka,Arsenal,MID,150.0,118.36333333333333
-David Raya,Arsenal,GK,40.0,41.03
-Declan Rice,Arsenal,MID,120.0,101.18
-Ethan Nwaneri,Arsenal,MID,55.0,45.92666666666667
-Gabriel Jesus,Arsenal,FWD,32.0,29.08
-Gabriel Magalhães,Arsenal,DEF,75.0,67.21333333333334
-Gabriel Martinelli,Arsenal,MID,55.0,51.82666666666667
-Jakub Kiwior,Arsenal,DEF,28.0,28.10333333333333
-Jorginho,Arsenal,MID,6.0,7.191999999999999
-Jurriën Timber,Arsenal,DEF,55.0,59.11666666666667
-Kai Havertz,Arsenal,MID,65.0,40.36333333333334
-Kieran Tierney,Arsenal,DEF,9.0,12.791666666666666
-Leandro Trossard,Arsenal,FWD,22.0,31.171666666666667
-Martin Ødegaard,Arsenal,MID,85.0,80.70333333333333
-Mikel Merino,Arsenal,MID,35.0,26.9
-Myles Lewis-Skelly,Arsenal,DEF,45.0,40.99
-Oleksandr Zinchenko,Arsenal,DEF,20.0,21.203333333333333
-Raheem Sterling,Arsenal,MID,10.0,12.941666666666666
-Riccardo Calafiori,Arsenal,DEF,35.0,29.843333333333334
-Thomas Partey,Arsenal,DEF,14.0,19.358999999999998
-William Saliba,Arsenal,DEF,80.0,73.07333333333334
-Amadou Onana,Aston Villa,MID,50.0,42.91
-Andrés García,Aston Villa,DEF,7.0,10.786666666666667
-Axel Disasi,Aston Villa,DEF,22.0,20.078333333333333
-Axel Disasi,Aston Villa,DEF,22.0,20.078333333333333
-Boubacar Kamara,Aston Villa,MID,40.0,35.526666666666664
-Diego Carlos,Aston Villa,DEF,9.5,8.065166666666666
-Donyell Malen,Aston Villa,FWD,25.0,22.6
-Emi Buendía,Aston Villa,MID,15.0,15.041666666666666
-Emiliano Martínez,Aston Villa,GK,20.0,11.465
-Ezri Konsa,Aston Villa,DEF,35.0,33.64333333333333
-Ian Maatsen,Aston Villa,DEF,28.0,28.256666666666668
-Jacob Ramsey,Aston Villa,MID,32.0,30.583333333333332
-Jaden Philogene Bidace,Aston Villa,MID,16.0,15.826666666666666
-John McGinn,Aston Villa,MID,16.0,15.146666666666667
-Jáder Durán,Aston Villa,FWD,,20.42
-Kosta Nedeljković,Aston Villa,DEF,10.0,9.97
-Lamare Bogarde,Aston Villa,DEF,6.0,10.74
-Leon Bailey,Aston Villa,MID,28.0,27.363333333333333
-Lucas Digne,Aston Villa,DEF,10.0,10.283166666666666
-Marco Asensio,Aston Villa,MID,20.0,21.64666666666667
-Marcus Rashford,Aston Villa,FWD,50.0,38.90833333333333
-Marcus Rashford,Aston Villa,FWD,50.0,38.90833333333333
-Matty Cash,Aston Villa,DEF,25.0,25.89
-Morgan Rogers,Aston Villa,MID,55.0,49.86333333333334
-Ollie Watkins,Aston Villa,FWD,40.0,38.38333333333333
-Pau Torres,Aston Villa,DEF,32.0,30.416666666666668
-Robin Olsen,Aston Villa,GK,1.0,1.3635
-Ross Barkley,Aston Villa,MID,6.0,7.234666666666667
-Tyrone Mings,Aston Villa,DEF,5.0,6.858333333333333
-Youri Tielemans,Aston Villa,MID,38.0,40.416666666666664
-Adam Smith,Bournemouth,DEF,0.75,2.4675
-Alex Scott,Bournemouth,MID,20.0,20.54
-Antoine Semenyo,Bournemouth,FWD,40.0,43.196666666666665
-Dango Ouattara,Bournemouth,FWD,28.0,30.363333333333333
-Daniel Jebbison,Bournemouth,FWD,4.0,20.958333333333332
-David Brooks,Bournemouth,MID,10.0,25.986666666666668
-Dean Huijsen,Bournemouth,DEF,60.0,51.656666666666666
-Enes Ünal,Bournemouth,MID,10.0,14.13
-Evanilson,Bournemouth,FWD,35.0,52.836666666666666
-Illia Zabarnyi,Bournemouth,DEF,42.0,40.50333333333333
-James Hill,Bournemouth,DEF,3.0,8.793333333333333
-Julian Araujo,Bournemouth,DEF,10.0,10.016666666666667
-Justin Kluivert,Bournemouth,MID,35.0,41.443333333333335
-Kepa Arrizabalaga,Bournemouth,GK,10.0,13.25
-Lewis Cook,Bournemouth,DEF,15.0,20.513333333333332
-Luis Sinisterra,Bournemouth,MID,15.0,18.593333333333334
-Marcos Senesi,Bournemouth,DEF,22.0,21.9
-Marcus Tavernier,Bournemouth,MID,18.0,26.80666666666667
-Mark Travers,Bournemouth,GK,4.0,7.816666666666666
-Milos Kerkez,Bournemouth,DEF,45.0,39.35
-Neto,Bournemouth,GK,1.5,1.5531666666666668
-Philip Billing,Bournemouth,MID,10.0,15.734
-Ryan Christie,Bournemouth,MID,10.0,18.365
-Tyler Adams,Bournemouth,MID,18.0,22.463333333333335
-Ben Mee,Brentford,DEF,0.7,1.4769999999999999
-Bryan Mbeumo,Brentford,FWD,55.0,47.39333333333333
-Christian Nørgaard,Brentford,MID,11.0,15.478333333333333
-Edmond-Paris Maghoma,Brentford,MID,0.8,17.213333333333335
-Ethan Pinnock,Brentford,DEF,7.0,9.460333333333333
-Fabio Carvalho,Brentford,MID,14.0,16.30666666666667
-Hákon Valdimarsson,Brentford,GK,2.5,4.3133333333333335
-Keane Lewis-Potter,Brentford,DEF,23.0,35.63
-Kevin Schade,Brentford,FWD,30.0,32.13333333333333
-Kristoffer Ajer,Brentford,DEF,18.0,17.65
-Mads Roerslev,Brentford,DEF,6.0,11.33
-Mark Flekken,Brentford,GK,10.0,11.67
-Mathias Jensen,Brentford,MID,14.0,15.261666666666667
-Michael Kayode,Brentford,DEF,18.0,18.68
-Mikkel Damsgaard,Brentford,MID,28.0,34.196666666666665
-Nathan Collins,Brentford,DEF,28.0,39.95666666666666
-Rico Henry,Brentford,DEF,15.0,14.855
-Sepp van den Berg,Brentford,DEF,22.0,28.363333333333333
-Thiago,Brentford,MID,18.0,14.711666666666666
-Vitaly Janelt,Brentford,MID,20.0,21.80666666666667
-Yehor Yarmoliuk,Brentford,MID,15.0,20.363333333333333
-Yoane Wissa,Brentford,FWD,32.0,37.03
-Adam Webster,Brighton,DEF,11.0,11.145666666666665
-Bart Verbruggen,Brighton,GK,30.0,29.44333333333333
-Billy Gilmour,Brighton,MID,20.0,18.793333333333333
-Brajan Gruda,Brighton,MID,25.0,24.015
-Carlos Baleba,Brighton,MID,40.0,36.73
-Danny Welbeck,Brighton,FWD,5.0,7.728999999999999
-Diego Gómez,Brighton,MID,14.0,17.236666666666668
-Evan Ferguson,Brighton,FWD,25.0,23.555
-Evan Ferguson,Brighton,FWD,25.0,23.555
-Ferdi Kadioglu,Brighton,DEF,25.0,20.591666666666665
-Georginio Rutter,Brighton,MID,32.0,32.486666666666665
-Igor,Brighton,DEF,,26.68166666666667
-Jack Hinshelwood,Brighton,DEF,24.0,27.536666666666665
-James Milner,Brighton,MID,1.0,1.6123333333333334
-Jan Paul van Hecke,Brighton,DEF,32.0,34.586666666666666
-Jason Steele,Brighton,GK,1.5,1.469166666666667
-João Pedro,Brighton,MID,50.0,45.62
-Joël Veltman,Brighton,DEF,4.0,8.154
-Julio Enciso,Brighton,MID,22.0,20.593333333333334
-Kaoru Mitoma,Brighton,MID,40.0,39.51
-Lewis Dunk,Brighton,DEF,6.0,8.408
-Mats Wieffer,Brighton,DEF,25.0,23.79
-Matt O'Riley,Brighton,MID,22.0,22.6
-Pervis Estupiñán,Brighton,DEF,30.0,29.31
-Simon Adingra,Brighton,MID,28.0,27.346666666666668
-Solly March,Brighton,MID,6.0,6.215333333333334
-Tariq Lamptey,Brighton,DEF,11.0,13.673333333333334
-Yankuba Minteh,Brighton,MID,30.0,31.116666666666667
-Yasin Ayari,Brighton,MID,22.0,29.22
-Axel Disasi,Chelsea,DEF,22.0,22.323333333333334
-Axel Disasi,Chelsea,DEF,22.0,22.323333333333334
-Benoît Badiashile,Chelsea,DEF,22.0,21.41
-Christopher Nkunku,Chelsea,FWD,35.0,31.79
-Cole Palmer,Chelsea,MID,120.0,111.46
-Enzo Fernández,Chelsea,MID,75.0,76.93666666666667
-Filip Jørgensen,Chelsea,GK,18.0,17.75
-Jadon Sancho,Chelsea,FWD,28.0,43.00333333333333
-Joshua Acheampong,Chelsea,DEF,8.0,10.206666666666667
-João Félix,Chelsea,MID,20.0,24.696666666666665
-Kiernan Dewsbury-Hall,Chelsea,MID,20.0,18.116666666666667
-Levi Colwill,Chelsea,DEF,55.0,49.56666666666667
-Malo Gusto,Chelsea,DEF,35.0,35.35666666666667
-Marc Cucurella,Chelsea,DEF,35.0,48.553333333333335
-Moisés Caicedo,Chelsea,DEF,90.0,80.97666666666667
-Mykhailo Mudryk,Chelsea,FWD,,17.458333333333332
-Nicolas Jackson,Chelsea,FWD,50.0,44.166666666666664
-Noni Madueke,Chelsea,FWD,40.0,42.86666666666667
-Pedro Neto,Chelsea,FWD,50.0,48.903333333333336
-Reece James,Chelsea,DEF,30.0,25.741666666666667
-Renato Veiga,Chelsea,DEF,25.0,19.793333333333333
-Robert Sánchez,Chelsea,GK,20.0,25.923333333333332
-Roméo Lavia,Chelsea,MID,40.0,34.70666666666666
-Tosin Adarabioyo,Chelsea,DEF,20.0,26.52
-Trevoh Chalobah,Chelsea,DEF,25.0,26.04
-Trevoh Chalobah,Chelsea,DEF,25.0,26.04
-Tyrique George,Chelsea,FWD,10.0,13.973333333333333
-Wesley Fofana,Chelsea,DEF,25.0,27.133333333333333
-Adam Wharton,Crystal Palace,MID,45.0,35.626666666666665
-Ben Chilwell,Crystal Palace,DEF,15.0,16.416666666666668
-Cheick Doucouré,Crystal Palace,MID,25.0,18.284166666666668
-Chris Richards,Crystal Palace,DEF,14.0,18.543333333333333
-Daichi Kamada,Crystal Palace,MID,12.0,15.246666666666666
-Daniel Muñoz,Crystal Palace,DEF,25.0,26.253333333333334
-Dean Henderson,Crystal Palace,GK,20.0,21.816666666666666
-Eberechi Eze,Crystal Palace,MID,55.0,49.22
-Eddie Nketiah,Crystal Palace,MID,18.0,21.286666666666665
-Ismaila Sarr,Crystal Palace,MID,25.0,30.913333333333334
-Jean-Philippe Mateta,Crystal Palace,FWD,30.0,31.96
-Jefferson Lerma,Crystal Palace,DEF,10.0,10.91
-Jeffrey Schlupp,Crystal Palace,DEF,3.0,5.0808333333333335
-Justin Devenny,Crystal Palace,MID,6.0,10.636666666666667
-Marc Guéhi,Crystal Palace,DEF,45.0,40.46666666666667
-Maxence Lacroix,Crystal Palace,DEF,25.0,28.726666666666667
-Nathaniel Clyne,Crystal Palace,DEF,1.0,1.4051666666666671
-Odsonne Édouard,Crystal Palace,MID,8.0,10.625
-Romain Esse,Crystal Palace,MID,12.0,13.9
-Trevoh Chalobah,Crystal Palace,DEF,25.0,24.636666666666667
-Trevoh Chalobah,Crystal Palace,DEF,25.0,24.636666666666667
-Tyrick Mitchell,Crystal Palace,DEF,25.0,28.043333333333333
-Will Hughes,Crystal Palace,MID,7.0,9.365
-Abdoulaye Doucouré,Everton,MID,7.0,10.404666666666667
-Armando Broja,Everton,FWD,12.0,14.098333333333333
-Ashley Young,Everton,DEF,0.5,2.1708333333333334
-Beto,Everton,FWD,22.0,24.60333333333333
-Carlos Alcaraz,Everton,MID,14.0,18.093333333333334
-Dominic Calvert-Lewin,Everton,FWD,16.0,22.143333333333334
-Dwight McNeil,Everton,MID,25.0,25.776666666666667
-Idrissa Gana Gueye,Everton,MID,1.5,5.211666666666667
-Iliman Ndiaye,Everton,FWD,22.0,26.89666666666667
-Jack Harrison,Everton,FWD,14.0,20.788333333333334
-Jake O'Brien,Everton,DEF,18.0,19.838333333333335
-James Garner,Everton,DEF,18.0,18.743333333333332
-James Tarkowski,Everton,DEF,9.0,9.610666666666667
-Jarrad Branthwaite,Everton,DEF,50.0,42.73
-Jesper Lindstrøm,Everton,FWD,18.0,19.446666666666665
-Jordan Pickford,Everton,GK,18.0,14.939
-Michael Keane,Everton,DEF,5.0,5.825333333333334
-Nathan Patterson,Everton,DEF,15.0,13.398333333333333
-Orel Mangala,Everton,MID,18.0,26.973333333333333
-Séamus Coleman,Everton,DEF,0.5,1.1338333333333332
-Tim Iroegbunam,Everton,MID,9.0,12.76
-Vitaliy Mykolenko,Everton,DEF,28.0,24.293333333333333
-Adama Traoré,Fulham,MID,9.0,16.86
-Alex Iwobi,Fulham,MID,28.0,31.726666666666667
-Andreas Pereira,Fulham,MID,18.0,20.97
-Antonee Robinson,Fulham,DEF,35.0,32.49
-Bernd Leno,Fulham,GK,10.0,10.350666666666665
-Calvin Bassey,Fulham,DEF,25.0,26.846666666666668
-Emile Smith Rowe,Fulham,MID,30.0,32.95666666666666
-Harrison Reed,Fulham,MID,6.0,5.023166666666671
-Harry Wilson,Fulham,MID,15.0,17.626666666666665
-Issa Diop,Fulham,DEF,14.0,17.064
-Joachim Andersen,Fulham,DEF,27.0,26.561666666666667
-Jorge Cuenca,Fulham,DEF,5.0,6.266666666666667
-Joshua King,Fulham,MID,1.0,18.955
-Kenny Tete,Fulham,DEF,13.0,15.003333333333334
-Raúl Jiménez,Fulham,FWD,5.0,9.495833333333334
-Reiss Nelson,Fulham,FWD,16.0,18.43
-Rodrigo Muniz,Fulham,FWD,20.0,22.446666666666665
-Ryan Sessegnon,Fulham,DEF,15.0,17.038333333333334
-Sander Berge,Fulham,MID,25.0,25.713333333333335
-Saša Lukić,Fulham,MID,14.0,18.766666666666666
-Timothy Castagne,Fulham,DEF,13.0,15.586666666666666
-Tom Cairney,Fulham,MID,1.5,2.3766666666666665
-Willian,Fulham,MID,0.75,1.2996666666666665
-Abdul Fatawu Issahaku,Leicester City,FWD,,20.048333333333332
-Bilal El Khannouss,Leicester City,MID,28.0,24.92
-Bobby De Cordova-Reid,Leicester City,FWD,2.5,3.3345000000000002
-Boubakary Soumaré,Leicester City,MID,12.0,14.591666666666667
-Caleb Okoli,Leicester City,DEF,10.0,11.241666666666667
-Conor Coady,Leicester City,DEF,2.2,3.2666666666666786
-Danny Ward,Leicester City,GK,1.2,2.004666666666666
-Facundo Buonanotte,Leicester City,MID,20.0,21.323333333333334
-Hamza Choudhury,Leicester City,DEF,4.5,6.081666666666667
-Harry Winks,Leicester City,MID,9.0,12.78433333333333
-Jakub Stolarczyk,Leicester City,GK,1.0,5.916666666666667
-James Justin,Leicester City,DEF,13.0,16.113333333333333
-Jamie Vardy,Leicester City,FWD,1.0,10.204666666666666
-Jannik Vestergaard,Leicester City,DEF,2.0,3.0268333333333346
-Jeremy Monga,Leicester City,MID,,13.55
-Jordan Ayew,Leicester City,MID,2.5,4.930000000000001
-Kasey McAteer,Leicester City,FWD,2.0,15.295
-Luke Thomas,Leicester City,DEF,6.0,8.351666666666667
-Mads Hermansen,Leicester City,GK,15.0,15.771666666666667
-Oliver Skipp,Leicester City,MID,10.0,11.675
-Patson Daka,Leicester City,MID,9.0,13.018333333333333
-Ricardo Pereira,Leicester City,DEF,4.5,4.180833333333334
-Stephy Mavididi,Leicester City,FWD,10.0,13.706666666666667
-Victor Bernth Kristiansen,Leicester City,DEF,15.0,16.351666666666667
-Wilfred Ndidi,Leicester City,MID,15.0,16.743333333333332
-Wout Faes,Leicester City,DEF,15.0,18.66
-Woyo Coulibaly,Leicester City,DEF,2.0,5.391666666666667
-Alexis Mac Allister,Liverpool,MID,100.0,89.33333333333333
-Alisson,Liverpool,GK,20.0,24.48
-Andrew Robertson,Liverpool,DEF,18.0,26.7
-Caoimhín Kelleher,Liverpool,GK,20.0,22.368333333333332
-Cody Gakpo,Liverpool,FWD,70.0,68.26
-Conor Bradley,Liverpool,DEF,30.0,27.066666666666666
-Curtis Jones,Liverpool,DEF,45.0,42.77
-Darwin Núñez,Liverpool,FWD,45.0,39.31333333333333
-Diogo Jota,Liverpool,FWD,40.0,58.88
-Dominik Szoboszlai,Liverpool,MID,80.0,78.5
-Federico Chiesa,Liverpool,FWD,14.0,18.161666666666665
-Harvey Elliott,Liverpool,MID,30.0,27.25
-Ibrahima Konaté,Liverpool,DEF,60.0,62.68
-Jarell Quansah,Liverpool,DEF,20.0,21.006666666666668
-Joe Gomez,Liverpool,DEF,20.0,22.43
-Kostas Tsimikas,Liverpool,DEF,18.0,19.145
-Luis Díaz,Liverpool,FWD,70.0,70.50333333333333
-Mohamed Salah,Liverpool,FWD,50.0,69.56
-Ryan Gravenberch,Liverpool,MID,75.0,71.89666666666666
-Trent Alexander-Arnold,Liverpool,DEF,75.0,75.69
-Virgil van Dijk,Liverpool,DEF,23.0,29.551666666666666
-Wataru Endo,Liverpool,DEF,8.0,9.194333333333335
-Abdukodir Khusanov,Manchester City,DEF,35.0,30.048333333333332
-Bernardo Silva,Manchester City,MID,38.0,23.411666666666665
-Ederson,Manchester City,GK,20.0,23.405
-Erling Haaland,Manchester City,FWD,180.0,126.89
-Jack Grealish,Manchester City,MID,28.0,26.696666666666665
-Jahmai Simpson-Pusey,Manchester City,DEF,5.0,7.8533333333333335
-James Mcatee,Manchester City,MID,20.0,19.973333333333333
-Jeremy Doku,Manchester City,MID,50.0,58.68
-John Stones,Manchester City,DEF,25.0,7.8425
-Joško Gvardiol,Manchester City,DEF,75.0,73.86
-Kevin De Bruyne,Manchester City,MID,20.0,27.449166666666667
-Kyle Walker,Manchester City,DEF,4.0,3.2421666666666664
-Manuel Akanji,Manchester City,DEF,28.0,24.445833333333333
-Mateo Kovačić,Manchester City,MID,20.0,22.915666666666667
-Matheus Nunes,Manchester City,DEF,35.0,34.07333333333333
-Nathan Aké,Manchester City,DEF,25.0,19.039833333333334
-Nico O’Reilly,Manchester City,DEF,18.0,20.413333333333334
-Nicolás González,Manchester City,MID,40.0,28.22
-Omar Marmoush,Manchester City,MID,75.0,60.263333333333335
-Phil Foden,Manchester City,MID,100.0,78.61333333333333
-Rico Lewis,Manchester City,DEF,40.0,38.89666666666667
-Rúben Dias,Manchester City,DEF,65.0,60.16
-Stefan Ortega,Manchester City,GK,8.0,7.567666666666668
-Sávio,Manchester City,MID,,52.406666666666666
-İlkay Gündoğan,Manchester City,MID,5.0,10.463999999999999
-Alejandro Garnacho,Manchester Utd,MID,45.0,43.71666666666667
-Altay Bayındır,Manchester Utd,GK,8.0,7.505
-Amad Diallo,Manchester Utd,MID,45.0,42.96666666666667
-André Onana,Manchester Utd,GK,25.0,22.852333333333334
-Antony,Manchester Utd,DEF,35.0,28.59
-Ayden Heaven,Manchester Utd,DEF,5.0,16.44333333333333
-Bruno Fernandes,Manchester Utd,MID,50.0,29.548333333333332
-Casemiro,Manchester Utd,MID,10.0,9.211666666666666
-Chidozie Obi-Martin,Manchester Utd,FWD,,20.083333333333332
-Christian Eriksen,Manchester Utd,MID,4.0,5.5665000000000004
-Diogo Dalot,Manchester Utd,DEF,30.0,30.976666666666667
-Harry Amass,Manchester Utd,DEF,5.0,9.258333333333333
-Harry Maguire,Manchester Utd,DEF,13.0,8.945166666666667
-Jonny Evans,Manchester Utd,DEF,1.0,1.5468333333333333
-Joshua Zirkzee,Manchester Utd,MID,30.0,28.49
-Kobbie Mainoo,Manchester Utd,MID,50.0,42.17
-Leny Yoro,Manchester Utd,DEF,55.0,44.333333333333336
-Lisandro Martínez,Manchester Utd,DEF,40.0,28.98
-Luke Shaw,Manchester Utd,DEF,12.0,10.342333333333332
-Manuel Ugarte,Manchester Utd,MID,45.0,38.32333333333333
-Marcus Rashford,Manchester Utd,MID,50.0,23.3
-Marcus Rashford,Manchester Utd,MID,50.0,23.3
-Mason Mount,Manchester Utd,MID,28.0,18.761666666666667
-Matthijs de Ligt,Manchester Utd,DEF,38.0,33.88
-Noussair Mazraoui,Manchester Utd,DEF,25.0,25.756666666666668
-Patrick Dorgu,Manchester Utd,DEF,25.0,23.236666666666668
-Rasmus Højlund,Manchester Utd,FWD,35.0,32.67333333333333
-Toby Collyer,Manchester Utd,MID,5.0,10.836666666666666
-Tyler Fredricson,Manchester Utd,DEF,3.0,5.488333333333333
-Tyrell Malacia,Manchester Utd,DEF,8.0,8.886666666666667
-Victor Lindelöf,Manchester Utd,DEF,8.0,9.285499999999997
-Alexander Isak,Newcastle Utd,FWD,120.0,105.10666666666667
-Anthony Gordon,Newcastle Utd,MID,65.0,59.446666666666665
-Bruno Guimarães,Newcastle Utd,MID,80.0,71.28666666666666
-Callum Wilson,Newcastle Utd,FWD,8.0,7.446833333333334
-Dan Burn,Newcastle Utd,DEF,6.0,24.863333333333333
-Emil Krafth,Newcastle Utd,DEF,2.0,5.319
-Fabian Schär,Newcastle Utd,DEF,7.0,19.078333333333333
-Harvey Barnes,Newcastle Utd,FWD,35.0,37.00333333333333
-Jacob Murphy,Newcastle Utd,FWD,16.0,27.486666666666668
-Joe Willock,Newcastle Utd,MID,22.0,22.663333333333334
-Joelinton,Newcastle Utd,MID,35.0,35.11333333333334
-Kieran Trippier,Newcastle Utd,DEF,4.0,5.343333333333334
-Lewis Hall,Newcastle Utd,DEF,32.0,34.24666666666667
-Lewis Miley,Newcastle Utd,MID,22.0,21.796666666666667
-Lloyd Kelly,Newcastle Utd,DEF,16.0,14.75
-Martin Dúbravka,Newcastle Utd,GK,1.0,2.413166666666667
-Miguel Almirón,Newcastle Utd,FWD,10.0,7.779000000000001
-Nick Pope,Newcastle Utd,GK,8.0,9.0465
-Sandro Tonali,Newcastle Utd,MID,60.0,61.82333333333333
-Sean Longstaff,Newcastle Utd,MID,20.0,19.883333333333333
-Sven Botman,Newcastle Utd,DEF,42.0,34.75
-Valentino Livramento,Newcastle Utd,DEF,40.0,39.626666666666665
-William Osula,Newcastle Utd,FWD,7.0,9.628333333333334
-Anthony Elanga,Nottingham Forest,MID,42.0,41.88333333333333
-Callum Hudson-Odoi,Nottingham Forest,MID,25.0,30.79
-Chris Wood,Nottingham Forest,FWD,10.0,11.982333333333333
-Danilo,Nottingham Forest,MID,28.0,22.231666666666666
-Elliot Anderson,Nottingham Forest,MID,32.0,34.14666666666667
-Harry Toffolo,Nottingham Forest,DEF,3.0,10.857
-Ibrahim Sangaré,Nottingham Forest,MID,24.0,21.626666666666665
-James Ward-Prowse,Nottingham Forest,MID,8.0,7.894666666666666
-James Ward-Prowse,Nottingham Forest,MID,8.0,7.894666666666666
-Jota Silva,Nottingham Forest,MID,15.0,17.85
-Matz Sels,Nottingham Forest,GK,7.0,8.151499999999999
-Morato,Nottingham Forest,DEF,14.0,15.941666666666666
-Morgan Gibbs-White,Nottingham Forest,MID,50.0,46.93666666666667
-Murillo,Nottingham Forest,DEF,55.0,47.72
-Neco Williams,Nottingham Forest,DEF,20.0,24.32
-Nicolás Domínguez,Nottingham Forest,MID,18.0,21.623333333333335
-Nikola Milenković,Nottingham Forest,DEF,35.0,33.045
-Ola Aina,Nottingham Forest,DEF,22.0,25.033333333333335
-Ramón Sosa,Nottingham Forest,MID,12.0,14.61
-Ryan Yates,Nottingham Forest,MID,12.0,16.346666666666668
-Taiwo Awoniyi,Nottingham Forest,FWD,16.0,16.908333333333335
-Willy Boly,Nottingham Forest,DEF,1.5,1.6138333333333335
-Álex Moreno,Nottingham Forest,DEF,7.0,6.870166666666667
-Aaron Ramsdale,Southampton,GK,16.0,15.225
-Adam Armstrong,Southampton,MID,12.0,12.428333333333333
-Adam Lallana,Southampton,MID,0.75,1.2016666666666667
-Albert Grønbaek,Southampton,MID,11.0,11.398333333333333
-Alex McCarthy,Southampton,GK,0.35,0.8151666666666642
-Armel Bella Kotchap,Southampton,DEF,9.0,9.411666666666667
-Ben Brereton,Southampton,FWD,7.5,12.915
-Cameron Archer,Southampton,FWD,12.0,14.573333333333334
-Charlie Taylor,Southampton,DEF,2.2,2.5873333333333415
-Flynn Downes,Southampton,MID,13.0,15.508333333333333
-Jack Stephens,Southampton,DEF,1.5,3.1016666666666683
-James Bree,Southampton,DEF,2.5,5.828333333333333
-Jan Bednarek,Southampton,DEF,9.0,13.445333333333334
-Jay Robinson,Southampton,MID,,14.621666666666666
-Joe Aribo,Southampton,DEF,6.0,10.518333333333333
-Joe Lumley,Southampton,GK,0.5,1.9363333333333328
-Kamaldeen Sulemana,Southampton,MID,13.0,17.876666666666665
-Kyle Walker-Peters,Southampton,DEF,15.0,18.236666666666668
-Lesley Ugochukwu,Southampton,MID,18.0,17.493333333333332
-Mateus Fernandes,Southampton,MID,15.0,20.22833333333333
-Nathan Wood-Gordon,Southampton,DEF,3.5,12.08
-Paul Onuachu,Southampton,FWD,6.0,5.743500000000001
-Ross Stewart,Southampton,FWD,4.0,6.79
-Ryan Fraser,Southampton,DEF,2.0,2.408333333333335
-Ryan Manning,Southampton,DEF,3.0,12.803333333333333
-Taylor Harwood-Bellis,Southampton,DEF,22.0,23.153333333333332
-Tyler Dibling,Southampton,MID,25.0,23.846666666666668
-Welington,Southampton,DEF,3.0,5.998333333333333
-William Smallbone,Southampton,MID,6.0,8.186666666666667
-Yukinari Sugawara,Southampton,DEF,11.0,12.843333333333334
-Antonín Kinský,Tottenham,GK,15.0,11.691666666666666
-Archie Gray,Tottenham,DEF,38.0,24.69
-Ben Davies,Tottenham,DEF,6.0,5.973000000000001
-Brennan Johnson,Tottenham,FWD,40.0,33.78333333333333
-Cristian Romero,Tottenham,DEF,50.0,42.03666666666667
-Dejan Kulusevski,Tottenham,MID,50.0,47.24333333333333
-Destiny Udogie,Tottenham,DEF,40.0,36.36
-Djed Spence,Tottenham,DEF,20.0,29.841666666666665
-Dominic Solanke,Tottenham,FWD,40.0,36.82
-Fraser Forster,Tottenham,GK,1.0,1.3505000000000011
-Guglielmo Vicario,Tottenham,GK,32.0,29.723333333333333
-James Maddison,Tottenham,MID,42.0,41.815
-Kevin Danso,Tottenham,DEF,25.0,21.295
-Lucas Bergvall,Tottenham,MID,38.0,34.34166666666667
-Mathys Tel,Tottenham,FWD,35.0,29.163333333333334
-Micky van de Ven,Tottenham,DEF,50.0,41.31166666666667
-Mikey Moore,Tottenham,FWD,18.0,15.371666666666666
-Pape Matar Sarr,Tottenham,MID,32.0,32.67
-Pedro Porro,Tottenham,DEF,38.0,36.14333333333333
-Radu Drăgușin,Tottenham,DEF,25.0,24.398333333333333
-Richarlison,Tottenham,FWD,20.0,19.23
-Rodrigo Bentancur,Tottenham,MID,30.0,26.713333333333335
-Sergio Reguilón,Tottenham,DEF,6.0,6.513333333333334
-Son Heung-min,Tottenham,FWD,,26.829666666666665
-Timo Werner,Tottenham,MID,7.0,11.313333333333333
-Wilson Odobert,Tottenham,MID,20.0,20.515
-Yves Bissouma,Tottenham,MID,25.0,24.513333333333332
-Aaron Cresswell,West Ham,DEF,0.5,1.3236666666666668
-Aaron Wan-Bissaka,West Ham,DEF,24.0,27.323333333333334
-Alphonse Areola,West Ham,GK,9.0,8.940166666666668
-Andy Irving,West Ham,MID,,12.075
-Carlos Soler,West Ham,MID,18.0,16.593333333333334
-Crysencio Summerville,West Ham,MID,22.0,19.593333333333334
-Danny Ings,West Ham,MID,6.0,6.534
-Edson Álvarez,West Ham,MID,25.0,22.453333333333333
-Emerson Palmieri,West Ham,DEF,,10.49883333333333
-Evan Ferguson,West Ham,FWD,25.0,24.085
-Evan Ferguson,West Ham,FWD,25.0,24.085
-Guido Rodríguez,West Ham,MID,10.0,8.804666666666668
-James Ward-Prowse,West Ham,MID,8.0,9.555666666666665
-James Ward-Prowse,West Ham,MID,8.0,9.555666666666665
-Jarrod Bowen,West Ham,MID,40.0,39.29333333333334
-Jean-Clair Todibo,West Ham,DEF,25.0,24.316666666666666
-Konstantinos Mavropanos,West Ham,DEF,17.0,18.756666666666668
-Lucas Paquetá,West Ham,MID,28.0,29.916666666666668
-Luis Guilherme,West Ham,MID,15.0,14.1
-Max Kilman,West Ham,DEF,,31.095
-Michail Antonio,West Ham,FWD,0.7,5.2058333333333335
-Mohammed Kudus,West Ham,MID,45.0,45.223333333333336
-Niclas Füllkrug,West Ham,FWD,10.0,9.1
-Oliver Scarles,West Ham,DEF,8.0,16.43
-Tomáš Souček,West Ham,MID,18.0,15.244166666666667
-Vladimír Coufal,West Ham,DEF,5.0,5.714
-Łukasz Fabiański,West Ham,GK,0.5,1.2788333333333335
-André,Wolves,MID,28.0,29.416666666666668
-Carlos Forbs,Wolves,MID,8.0,9.316666666666666
-Craig Dawson,Wolves,DEF,1.5,2.0946666666666665
-Daniel Bentley,Wolves,GK,1.5,4.903000000000004
-Emmanuel Agbadou,Wolves,DEF,20.0,20.653333333333332
-Gonçalo Guedes,Wolves,MID,11.0,13.61
-Hwang Hee-chan,Wolves,MID,,11.968
-Jean-Ricner Bellegarde,Wolves,MID,18.0,20.696666666666665
-José Sá,Wolves,GK,7.0,9.865166666666665
-João Gomes,Wolves,MID,40.0,35.84
-Jørgen Strand Larsen,Wolves,FWD,30.0,29.83
-Mario Lemina,Wolves,DEF,7.5,6.716
-Marshall Munetsi,Wolves,MID,15.0,16.488333333333333
-Matheus Cunha,Wolves,MID,60.0,44.096666666666664
-Matt Doherty,Wolves,DEF,2.0,9.006
-Nélson Semedo,Wolves,DEF,9.0,11.744
-Pablo Sarabia,Wolves,MID,5.0,6.861833333333334
-Rayan Aït-Nouri,Wolves,DEF,35.0,34.583333333333336
-Rodrigo Gomes,Wolves,DEF,15.0,15.84
-Sam Johnstone,Wolves,GK,6.0,4.543000000000002
-Santiago Bueno,Wolves,DEF,10.0,14.157333333333332
-Tommy Doyle,Wolves,MID,10.0,12.55
-Toti Gomes,Wolves,DEF,,28.273333333333333
-Yerson Mosquera,Wolves,DEF,8.0,9.0
+﻿Player;Team;Position_group;market_value_million;predicted_value_million
+Ben White;Arsenal;;45.0;23.30666666666667
+Bukayo Saka;Arsenal;MID;150.0;118.36333333333333
+David Raya;Arsenal;GK;40.0;41.03
+Declan Rice;Arsenal;MID;120.0;101.18
+Ethan Nwaneri;Arsenal;MID;55.0;45.92666666666667
+Gabriel Jesus;Arsenal;FWD;32.0;29.08
+Gabriel Magalhães;Arsenal;;75.0;67.21333333333334
+Gabriel Martinelli;Arsenal;MID;55.0;51.82666666666667
+Jakub Kiwior;Arsenal;;28.0;28.10333333333333
+Jorginho;Arsenal;MID;6.0;7.191999999999999
+Jurriën Timber;Arsenal;;55.0;59.11666666666667
+Kai Havertz;Arsenal;MID;65.0;40.36333333333334
+Kieran Tierney;Arsenal;FWD;9.0;12.791666666666666
+Leandro Trossard;Arsenal;FWD;22.0;31.171666666666667
+Martin Ødegaard;Arsenal;MID;85.0;80.70333333333333
+Mikel Merino;Arsenal;MID;35.0;26.9
+Myles Lewis-Skelly;Arsenal;;45.0;40.99
+Oleksandr Zinchenko;Arsenal;MID;20.0;21.203333333333333
+Raheem Sterling;Arsenal;MID;10.0;12.941666666666666
+Riccardo Calafiori;Arsenal;;35.0;29.843333333333334
+Thomas Partey;Arsenal;MID;14.0;19.358999999999998
+William Saliba;Arsenal;;80.0;73.07333333333334
+Amadou Onana;Aston Villa;MID;50.0;42.91
+Andrés García;Aston Villa;MID;7.0;10.786666666666667
+Axel Disasi;Aston Villa;;22.0;20.078333333333333
+Axel Disasi;Aston Villa;;22.0;20.078333333333333
+Boubacar Kamara;Aston Villa;MID;40.0;35.526666666666664
+Diego Carlos;Aston Villa;;9.5;8.065166666666666
+Donyell Malen;Aston Villa;FWD;25.0;22.6
+Emi Buendía;Aston Villa;MID;15.0;15.041666666666666
+Emiliano Martínez;Aston Villa;GK;20.0;11.465
+Ezri Konsa;Aston Villa;;35.0;33.64333333333333
+Ian Maatsen;Aston Villa;;28.0;28.256666666666668
+Jacob Ramsey;Aston Villa;MID;32.0;30.583333333333332
+Jaden Philogene Bidace;Aston Villa;MID;16.0;15.826666666666666
+John McGinn;Aston Villa;MID;16.0;15.146666666666667
+Jáder Durán;Aston Villa;FWD;;20.42
+Kosta Nedeljković;Aston Villa;;10.0;9.97
+Lamare Bogarde;Aston Villa;MID;6.0;10.74
+Leon Bailey;Aston Villa;MID;28.0;27.363333333333333
+Lucas Digne;Aston Villa;;10.0;10.283166666666666
+Marco Asensio;Aston Villa;MID;20.0;21.64666666666667
+Marcus Rashford;Aston Villa;FWD;50.0;38.90833333333333
+Marcus Rashford;Aston Villa;FWD;50.0;38.90833333333333
+Matty Cash;Aston Villa;;25.0;25.89
+Morgan Rogers;Aston Villa;MID;55.0;49.86333333333334
+Ollie Watkins;Aston Villa;FWD;40.0;38.38333333333333
+Pau Torres;Aston Villa;;32.0;30.416666666666668
+Robin Olsen;Aston Villa;GK;1.0;1.3635
+Ross Barkley;Aston Villa;MID;6.0;7.234666666666667
+Tyrone Mings;Aston Villa;;5.0;6.858333333333333
+Youri Tielemans;Aston Villa;MID;38.0;40.416666666666664
+Adam Smith;Bournemouth;;0.75;2.4675
+Alex Scott;Bournemouth;MID;20.0;20.54
+Antoine Semenyo;Bournemouth;FWD;40.0;43.196666666666665
+Dango Ouattara;Bournemouth;FWD;28.0;30.363333333333333
+Daniel Jebbison;Bournemouth;FWD;4.0;20.958333333333332
+David Brooks;Bournemouth;MID;10.0;25.986666666666668
+Dean Huijsen;Bournemouth;;60.0;51.656666666666666
+Enes Ünal;Bournemouth;MID;10.0;14.13
+Evanilson;Bournemouth;FWD;35.0;52.836666666666666
+Illia Zabarnyi;Bournemouth;;42.0;40.50333333333333
+James Hill;Bournemouth;;3.0;8.793333333333333
+Julian Araujo;Bournemouth;;10.0;10.016666666666667
+Justin Kluivert;Bournemouth;MID;35.0;41.443333333333335
+Kepa Arrizabalaga;Bournemouth;GK;10.0;13.25
+Lewis Cook;Bournemouth;MID;15.0;20.513333333333332
+Luis Sinisterra;Bournemouth;MID;15.0;18.593333333333334
+Marcos Senesi;Bournemouth;;22.0;21.9
+Marcus Tavernier;Bournemouth;MID;18.0;26.80666666666667
+Mark Travers;Bournemouth;GK;4.0;7.816666666666666
+Milos Kerkez;Bournemouth;;45.0;39.35
+Neto;Bournemouth;GK;1.5;1.5531666666666668
+Philip Billing;Bournemouth;MID;10.0;15.734
+Ryan Christie;Bournemouth;MID;10.0;18.365
+Tyler Adams;Bournemouth;MID;18.0;22.463333333333335
+Ben Mee;Brentford;;0.7;1.4769999999999999
+Bryan Mbeumo;Brentford;FWD;55.0;47.39333333333333
+Christian Nørgaard;Brentford;MID;11.0;15.478333333333333
+Edmond-Paris Maghoma;Brentford;MID;0.8;17.213333333333335
+Ethan Pinnock;Brentford;;7.0;9.460333333333333
+Fabio Carvalho;Brentford;MID;14.0;16.30666666666667
+Hákon Valdimarsson;Brentford;GK;2.5;4.3133333333333335
+Keane Lewis-Potter;Brentford;FWD;23.0;35.63
+Kevin Schade;Brentford;FWD;30.0;32.13333333333333
+Kristoffer Ajer;Brentford;;18.0;17.65
+Mads Roerslev;Brentford;;6.0;11.33
+Mark Flekken;Brentford;GK;10.0;11.67
+Mathias Jensen;Brentford;MID;14.0;15.261666666666667
+Michael Kayode;Brentford;;18.0;18.68
+Mikkel Damsgaard;Brentford;MID;28.0;34.196666666666665
+Nathan Collins;Brentford;;28.0;39.95666666666666
+Rico Henry;Brentford;;15.0;14.855
+Sepp van den Berg;Brentford;;22.0;28.363333333333333
+Thiago;Brentford;MID;18.0;14.711666666666666
+Vitaly Janelt;Brentford;MID;20.0;21.80666666666667
+Yehor Yarmoliuk;Brentford;MID;15.0;20.363333333333333
+Yoane Wissa;Brentford;FWD;32.0;37.03
+Adam Webster;Brighton;;11.0;11.145666666666665
+Bart Verbruggen;Brighton;GK;30.0;29.44333333333333
+Billy Gilmour;Brighton;MID;20.0;18.793333333333333
+Brajan Gruda;Brighton;MID;25.0;24.015
+Carlos Baleba;Brighton;MID;40.0;36.73
+Danny Welbeck;Brighton;FWD;5.0;7.728999999999999
+Diego Gómez;Brighton;MID;14.0;17.236666666666668
+Evan Ferguson;Brighton;FWD;25.0;23.555
+Evan Ferguson;Brighton;FWD;25.0;23.555
+Ferdi Kadioglu;Brighton;MID;25.0;20.591666666666665
+Georginio Rutter;Brighton;MID;32.0;32.486666666666665
+Igor;Brighton;;;26.68166666666667
+Jack Hinshelwood;Brighton;MID;24.0;27.536666666666665
+James Milner;Brighton;MID;1.0;1.6123333333333334
+Jan Paul van Hecke;Brighton;;32.0;34.586666666666666
+Jason Steele;Brighton;GK;1.5;1.469166666666667
+João Pedro;Brighton;MID;50.0;45.62
+Joël Veltman;Brighton;;4.0;8.154
+Julio Enciso;Brighton;MID;22.0;20.593333333333334
+Kaoru Mitoma;Brighton;MID;40.0;39.51
+Lewis Dunk;Brighton;;6.0;8.408
+Mats Wieffer;Brighton;MID;25.0;23.79
+Matt O'Riley;Brighton;MID;22.0;22.6
+Pervis Estupiñán;Brighton;;30.0;29.31
+Simon Adingra;Brighton;MID;28.0;27.346666666666668
+Solly March;Brighton;MID;6.0;6.215333333333334
+Tariq Lamptey;Brighton;;11.0;13.673333333333334
+Yankuba Minteh;Brighton;MID;30.0;31.116666666666667
+Yasin Ayari;Brighton;MID;22.0;29.22
+Axel Disasi;Chelsea;;22.0;22.323333333333334
+Axel Disasi;Chelsea;;22.0;22.323333333333334
+Benoît Badiashile;Chelsea;;22.0;21.41
+Christopher Nkunku;Chelsea;FWD;35.0;31.79
+Cole Palmer;Chelsea;MID;120.0;111.46
+Enzo Fernández;Chelsea;MID;75.0;76.93666666666667
+Filip Jørgensen;Chelsea;GK;18.0;17.75
+Jadon Sancho;Chelsea;FWD;28.0;43.00333333333333
+Joshua Acheampong;Chelsea;;8.0;10.206666666666667
+João Félix;Chelsea;MID;20.0;24.696666666666665
+Kiernan Dewsbury-Hall;Chelsea;MID;20.0;18.116666666666667
+Levi Colwill;Chelsea;;55.0;49.56666666666667
+Malo Gusto;Chelsea;;35.0;35.35666666666667
+Marc Cucurella;Chelsea;;35.0;48.553333333333335
+Moisés Caicedo;Chelsea;MID;90.0;80.97666666666667
+Mykhailo Mudryk;Chelsea;FWD;;17.458333333333332
+Nicolas Jackson;Chelsea;FWD;50.0;44.166666666666664
+Noni Madueke;Chelsea;FWD;40.0;42.86666666666667
+Pedro Neto;Chelsea;FWD;50.0;48.903333333333336
+Reece James;Chelsea;MID;30.0;25.741666666666667
+Renato Veiga;Chelsea;MID;25.0;19.793333333333333
+Robert Sánchez;Chelsea;GK;20.0;25.923333333333332
+Roméo Lavia;Chelsea;MID;40.0;34.70666666666666
+Tosin Adarabioyo;Chelsea;;20.0;26.52
+Trevoh Chalobah;Chelsea;;25.0;26.04
+Trevoh Chalobah;Chelsea;;25.0;26.04
+Tyrique George;Chelsea;FWD;10.0;13.973333333333333
+Wesley Fofana;Chelsea;;25.0;27.133333333333333
+Adam Wharton;Crystal Palace;MID;45.0;35.626666666666665
+Ben Chilwell;Crystal Palace;;15.0;16.416666666666668
+Cheick Doucouré;Crystal Palace;MID;25.0;18.284166666666668
+Chris Richards;Crystal Palace;;14.0;18.543333333333333
+Daichi Kamada;Crystal Palace;MID;12.0;15.246666666666666
+Daniel Muñoz;Crystal Palace;;25.0;26.253333333333334
+Dean Henderson;Crystal Palace;GK;20.0;21.816666666666666
+Eberechi Eze;Crystal Palace;MID;55.0;49.22
+Eddie Nketiah;Crystal Palace;MID;18.0;21.286666666666665
+Ismaila Sarr;Crystal Palace;MID;25.0;30.913333333333334
+Jean-Philippe Mateta;Crystal Palace;FWD;30.0;31.96
+Jefferson Lerma;Crystal Palace;MID;10.0;10.91
+Jeffrey Schlupp;Crystal Palace;MID;3.0;5.0808333333333335
+Justin Devenny;Crystal Palace;MID;6.0;10.636666666666667
+Marc Guéhi;Crystal Palace;;45.0;40.46666666666667
+Maxence Lacroix;Crystal Palace;;25.0;28.726666666666667
+Nathaniel Clyne;Crystal Palace;MID;1.0;1.4051666666666671
+Odsonne Édouard;Crystal Palace;MID;8.0;10.625
+Romain Esse;Crystal Palace;MID;12.0;13.9
+Trevoh Chalobah;Crystal Palace;;25.0;24.636666666666667
+Trevoh Chalobah;Crystal Palace;;25.0;24.636666666666667
+Tyrick Mitchell;Crystal Palace;;25.0;28.043333333333333
+Will Hughes;Crystal Palace;MID;7.0;9.365
+Abdoulaye Doucouré;Everton;MID;7.0;10.404666666666667
+Armando Broja;Everton;FWD;12.0;14.098333333333333
+Ashley Young;Everton;;0.5;2.1708333333333334
+Beto;Everton;FWD;22.0;24.60333333333333
+Carlos Alcaraz;Everton;MID;14.0;18.093333333333334
+Dominic Calvert-Lewin;Everton;FWD;16.0;22.143333333333334
+Dwight McNeil;Everton;MID;25.0;25.776666666666667
+Idrissa Gana Gueye;Everton;MID;1.5;5.211666666666667
+Iliman Ndiaye;Everton;FWD;22.0;26.89666666666667
+Jack Harrison;Everton;FWD;14.0;20.788333333333334
+Jake O'Brien;Everton;;18.0;19.838333333333335
+James Garner;Everton;MID;18.0;18.743333333333332
+James Tarkowski;Everton;;9.0;9.610666666666667
+Jarrad Branthwaite;Everton;;50.0;42.73
+Jesper Lindstrøm;Everton;FWD;18.0;19.446666666666665
+Jordan Pickford;Everton;GK;18.0;14.939
+Michael Keane;Everton;;5.0;5.825333333333334
+Nathan Patterson;Everton;;15.0;13.398333333333333
+Orel Mangala;Everton;MID;18.0;26.973333333333333
+Séamus Coleman;Everton;;0.5;1.1338333333333332
+Tim Iroegbunam;Everton;MID;9.0;12.76
+Vitaliy Mykolenko;Everton;;28.0;24.293333333333333
+Adama Traoré;Fulham;MID;9.0;16.86
+Alex Iwobi;Fulham;MID;28.0;31.726666666666667
+Andreas Pereira;Fulham;MID;18.0;20.97
+Antonee Robinson;Fulham;;35.0;32.49
+Bernd Leno;Fulham;GK;10.0;10.350666666666665
+Calvin Bassey;Fulham;;25.0;26.846666666666668
+Emile Smith Rowe;Fulham;MID;30.0;32.95666666666666
+Harrison Reed;Fulham;MID;6.0;5.023166666666671
+Harry Wilson;Fulham;MID;15.0;17.626666666666665
+Issa Diop;Fulham;;14.0;17.064
+Joachim Andersen;Fulham;;27.0;26.561666666666667
+Jorge Cuenca;Fulham;;5.0;6.266666666666667
+Joshua King;Fulham;MID;1.0;18.955
+Kenny Tete;Fulham;;13.0;15.003333333333334
+Raúl Jiménez;Fulham;FWD;5.0;9.495833333333334
+Reiss Nelson;Fulham;FWD;16.0;18.43
+Rodrigo Muniz;Fulham;FWD;20.0;22.446666666666665
+Ryan Sessegnon;Fulham;FWD;15.0;17.038333333333334
+Sander Berge;Fulham;MID;25.0;25.713333333333335
+Saša Lukić;Fulham;MID;14.0;18.766666666666666
+Timothy Castagne;Fulham;;13.0;15.586666666666666
+Tom Cairney;Fulham;MID;1.5;2.3766666666666665
+Willian;Fulham;MID;0.75;1.2996666666666665
+Abdul Fatawu Issahaku;Leicester City;FWD;;20.048333333333332
+Bilal El Khannouss;Leicester City;MID;28.0;24.92
+Bobby De Cordova-Reid;Leicester City;FWD;2.5;3.3345000000000002
+Boubakary Soumaré;Leicester City;MID;12.0;14.591666666666667
+Caleb Okoli;Leicester City;;10.0;11.241666666666667
+Conor Coady;Leicester City;;2.2;3.2666666666666786
+Danny Ward;Leicester City;GK;1.2;2.004666666666666
+Facundo Buonanotte;Leicester City;MID;20.0;21.323333333333334
+Hamza Choudhury;Leicester City;MID;4.5;6.081666666666667
+Harry Winks;Leicester City;MID;9.0;12.78433333333333
+Jakub Stolarczyk;Leicester City;GK;1.0;5.916666666666667
+James Justin;Leicester City;;13.0;16.113333333333333
+Jamie Vardy;Leicester City;FWD;1.0;10.204666666666666
+Jannik Vestergaard;Leicester City;;2.0;3.0268333333333346
+Jeremy Monga;Leicester City;MID;;13.55
+Jordan Ayew;Leicester City;MID;2.5;4.930000000000001
+Kasey McAteer;Leicester City;FWD;2.0;15.295
+Luke Thomas;Leicester City;;6.0;8.351666666666667
+Mads Hermansen;Leicester City;GK;15.0;15.771666666666667
+Oliver Skipp;Leicester City;MID;10.0;11.675
+Patson Daka;Leicester City;MID;9.0;13.018333333333333
+Ricardo Pereira;Leicester City;;4.5;4.180833333333334
+Stephy Mavididi;Leicester City;FWD;10.0;13.706666666666667
+Victor Bernth Kristiansen;Leicester City;;15.0;16.351666666666667
+Wilfred Ndidi;Leicester City;MID;15.0;16.743333333333332
+Wout Faes;Leicester City;;15.0;18.66
+Woyo Coulibaly;Leicester City;;2.0;5.391666666666667
+Alexis Mac Allister;Liverpool;MID;100.0;89.33333333333333
+Alisson;Liverpool;GK;20.0;24.48
+Andrew Robertson;Liverpool;;18.0;26.7
+Caoimhín Kelleher;Liverpool;GK;20.0;22.368333333333332
+Cody Gakpo;Liverpool;FWD;70.0;68.26
+Conor Bradley;Liverpool;;30.0;27.066666666666666
+Curtis Jones;Liverpool;MID;45.0;42.77
+Darwin Núñez;Liverpool;FWD;45.0;39.31333333333333
+Diogo Jota;Liverpool;FWD;40.0;58.88
+Dominik Szoboszlai;Liverpool;MID;80.0;78.5
+Federico Chiesa;Liverpool;FWD;14.0;18.161666666666665
+Harvey Elliott;Liverpool;MID;30.0;27.25
+Ibrahima Konaté;Liverpool;;60.0;62.68
+Jarell Quansah;Liverpool;;20.0;21.006666666666668
+Joe Gomez;Liverpool;;20.0;22.43
+Kostas Tsimikas;Liverpool;;18.0;19.145
+Luis Díaz;Liverpool;FWD;70.0;70.50333333333333
+Mohamed Salah;Liverpool;FWD;50.0;69.56
+Ryan Gravenberch;Liverpool;MID;75.0;71.89666666666666
+Trent Alexander-Arnold;Liverpool;;75.0;75.69
+Virgil van Dijk;Liverpool;;23.0;29.551666666666666
+Wataru Endo;Liverpool;MID;8.0;9.194333333333335
+Abdukodir Khusanov;Manchester City;;35.0;30.048333333333332
+Bernardo Silva;Manchester City;MID;38.0;23.411666666666665
+Ederson;Manchester City;GK;20.0;23.405
+Erling Haaland;Manchester City;FWD;180.0;126.89
+Jack Grealish;Manchester City;MID;28.0;26.696666666666665
+Jahmai Simpson-Pusey;Manchester City;;5.0;7.8533333333333335
+James Mcatee;Manchester City;MID;20.0;19.973333333333333
+Jeremy Doku;Manchester City;MID;50.0;58.68
+John Stones;Manchester City;MID;25.0;7.8425
+Joško Gvardiol;Manchester City;;75.0;73.86
+Kevin De Bruyne;Manchester City;MID;20.0;27.449166666666667
+Kyle Walker;Manchester City;;4.0;3.2421666666666664
+Manuel Akanji;Manchester City;;28.0;24.445833333333333
+Mateo Kovačić;Manchester City;MID;20.0;22.915666666666667
+Matheus Nunes;Manchester City;MID;35.0;34.07333333333333
+Nathan Aké;Manchester City;;25.0;19.039833333333334
+Nico O’Reilly;Manchester City;;18.0;20.413333333333334
+Nicolás González;Manchester City;MID;40.0;28.22
+Omar Marmoush;Manchester City;MID;75.0;60.263333333333335
+Phil Foden;Manchester City;MID;100.0;78.61333333333333
+Rico Lewis;Manchester City;MID;40.0;38.89666666666667
+Rúben Dias;Manchester City;;65.0;60.16
+Stefan Ortega;Manchester City;GK;8.0;7.567666666666668
+Sávio;Manchester City;MID;;52.406666666666666
+İlkay Gündoğan;Manchester City;MID;5.0;10.463999999999999
+Alejandro Garnacho;Manchester Utd;MID;45.0;43.71666666666667
+Altay Bayındır;Manchester Utd;GK;8.0;7.505
+Amad Diallo;Manchester Utd;MID;45.0;42.96666666666667
+André Onana;Manchester Utd;GK;25.0;22.852333333333334
+Antony;Manchester Utd;MID;35.0;28.59
+Ayden Heaven;Manchester Utd;;5.0;16.44333333333333
+Bruno Fernandes;Manchester Utd;MID;50.0;29.548333333333332
+Casemiro;Manchester Utd;MID;10.0;9.211666666666666
+Chidozie Obi-Martin;Manchester Utd;FWD;;20.083333333333332
+Christian Eriksen;Manchester Utd;MID;4.0;5.5665000000000004
+Diogo Dalot;Manchester Utd;;30.0;30.976666666666667
+Harry Amass;Manchester Utd;;5.0;9.258333333333333
+Harry Maguire;Manchester Utd;;13.0;8.945166666666667
+Jonny Evans;Manchester Utd;;1.0;1.5468333333333333
+Joshua Zirkzee;Manchester Utd;MID;30.0;28.49
+Kobbie Mainoo;Manchester Utd;MID;50.0;42.17
+Leny Yoro;Manchester Utd;;55.0;44.333333333333336
+Lisandro Martínez;Manchester Utd;;40.0;28.98
+Luke Shaw;Manchester Utd;;12.0;10.342333333333332
+Manuel Ugarte;Manchester Utd;MID;45.0;38.32333333333333
+Marcus Rashford;Manchester Utd;MID;50.0;23.3
+Marcus Rashford;Manchester Utd;MID;50.0;23.3
+Mason Mount;Manchester Utd;MID;28.0;18.761666666666667
+Matthijs de Ligt;Manchester Utd;;38.0;33.88
+Noussair Mazraoui;Manchester Utd;;25.0;25.756666666666668
+Patrick Dorgu;Manchester Utd;;25.0;23.236666666666668
+Rasmus Højlund;Manchester Utd;FWD;35.0;32.67333333333333
+Toby Collyer;Manchester Utd;MID;5.0;10.836666666666666
+Tyler Fredricson;Manchester Utd;;3.0;5.488333333333333
+Tyrell Malacia;Manchester Utd;;8.0;8.886666666666667
+Victor Lindelöf;Manchester Utd;;8.0;9.285499999999997
+Alexander Isak;Newcastle Utd;FWD;120.0;105.10666666666667
+Anthony Gordon;Newcastle Utd;MID;65.0;59.446666666666665
+Bruno Guimarães;Newcastle Utd;MID;80.0;71.28666666666666
+Callum Wilson;Newcastle Utd;FWD;8.0;7.446833333333334
+Dan Burn;Newcastle Utd;;6.0;24.863333333333333
+Emil Krafth;Newcastle Utd;;2.0;5.319
+Fabian Schär;Newcastle Utd;;7.0;19.078333333333333
+Harvey Barnes;Newcastle Utd;FWD;35.0;37.00333333333333
+Jacob Murphy;Newcastle Utd;FWD;16.0;27.486666666666668
+Joe Willock;Newcastle Utd;MID;22.0;22.663333333333334
+Joelinton;Newcastle Utd;MID;35.0;35.11333333333334
+Kieran Trippier;Newcastle Utd;;4.0;5.343333333333334
+Lewis Hall;Newcastle Utd;;32.0;34.24666666666667
+Lewis Miley;Newcastle Utd;MID;22.0;21.796666666666667
+Lloyd Kelly;Newcastle Utd;;16.0;14.75
+Martin Dúbravka;Newcastle Utd;GK;1.0;2.413166666666667
+Miguel Almirón;Newcastle Utd;FWD;10.0;7.779000000000001
+Nick Pope;Newcastle Utd;GK;8.0;9.0465
+Sandro Tonali;Newcastle Utd;MID;60.0;61.82333333333333
+Sean Longstaff;Newcastle Utd;MID;20.0;19.883333333333333
+Sven Botman;Newcastle Utd;;42.0;34.75
+Valentino Livramento;Newcastle Utd;;40.0;39.626666666666665
+William Osula;Newcastle Utd;FWD;7.0;9.628333333333334
+Anthony Elanga;Nottingham Forest;MID;42.0;41.88333333333333
+Callum Hudson-Odoi;Nottingham Forest;MID;25.0;30.79
+Chris Wood;Nottingham Forest;FWD;10.0;11.982333333333333
+Danilo;Nottingham Forest;MID;28.0;22.231666666666666
+Elliot Anderson;Nottingham Forest;MID;32.0;34.14666666666667
+Harry Toffolo;Nottingham Forest;;3.0;10.857
+Ibrahim Sangaré;Nottingham Forest;MID;24.0;21.626666666666665
+James Ward-Prowse;Nottingham Forest;MID;8.0;7.894666666666666
+James Ward-Prowse;Nottingham Forest;MID;8.0;7.894666666666666
+Jota Silva;Nottingham Forest;MID;15.0;17.85
+Matz Sels;Nottingham Forest;GK;7.0;8.151499999999999
+Morato;Nottingham Forest;;14.0;15.941666666666666
+Morgan Gibbs-White;Nottingham Forest;MID;50.0;46.93666666666667
+Murillo;Nottingham Forest;;55.0;47.72
+Neco Williams;Nottingham Forest;;20.0;24.32
+Nicolás Domínguez;Nottingham Forest;MID;18.0;21.623333333333335
+Nikola Milenković;Nottingham Forest;;35.0;33.045
+Ola Aina;Nottingham Forest;;22.0;25.033333333333335
+Ramón Sosa;Nottingham Forest;MID;12.0;14.61
+Ryan Yates;Nottingham Forest;MID;12.0;16.346666666666668
+Taiwo Awoniyi;Nottingham Forest;FWD;16.0;16.908333333333335
+Willy Boly;Nottingham Forest;;1.5;1.6138333333333335
+Álex Moreno;Nottingham Forest;MID;7.0;6.870166666666667
+Aaron Ramsdale;Southampton;GK;16.0;15.225
+Adam Armstrong;Southampton;MID;12.0;12.428333333333333
+Adam Lallana;Southampton;MID;0.75;1.2016666666666667
+Albert Grønbaek;Southampton;MID;11.0;11.398333333333333
+Alex McCarthy;Southampton;GK;0.35;0.8151666666666642
+Armel Bella Kotchap;Southampton;;9.0;9.411666666666667
+Ben Brereton;Southampton;FWD;7.5;12.915
+Cameron Archer;Southampton;FWD;12.0;14.573333333333334
+Charlie Taylor;Southampton;;2.2;2.5873333333333415
+Flynn Downes;Southampton;MID;13.0;15.508333333333333
+Jack Stephens;Southampton;;1.5;3.1016666666666683
+James Bree;Southampton;;2.5;5.828333333333333
+Jan Bednarek;Southampton;;9.0;13.445333333333334
+Jay Robinson;Southampton;MID;;14.621666666666666
+Joe Aribo;Southampton;MID;6.0;10.518333333333333
+Joe Lumley;Southampton;GK;0.5;1.9363333333333328
+Kamaldeen Sulemana;Southampton;MID;13.0;17.876666666666665
+Kyle Walker-Peters;Southampton;;15.0;18.236666666666668
+Lesley Ugochukwu;Southampton;MID;18.0;17.493333333333332
+Mateus Fernandes;Southampton;MID;15.0;20.22833333333333
+Nathan Wood-Gordon;Southampton;;3.5;12.08
+Paul Onuachu;Southampton;FWD;6.0;5.743500000000001
+Ross Stewart;Southampton;FWD;4.0;6.79
+Ryan Fraser;Southampton;FWD;2.0;2.408333333333335
+Ryan Manning;Southampton;MID;3.0;12.803333333333333
+Taylor Harwood-Bellis;Southampton;;22.0;23.153333333333332
+Tyler Dibling;Southampton;MID;25.0;23.846666666666668
+Welington;Southampton;;3.0;5.998333333333333
+William Smallbone;Southampton;MID;6.0;8.186666666666667
+Yukinari Sugawara;Southampton;MID;11.0;12.843333333333334
+Antonín Kinský;Tottenham;GK;15.0;11.691666666666666
+Archie Gray;Tottenham;MID;38.0;24.69
+Ben Davies;Tottenham;;6.0;5.973000000000001
+Brennan Johnson;Tottenham;FWD;40.0;33.78333333333333
+Cristian Romero;Tottenham;;50.0;42.03666666666667
+Dejan Kulusevski;Tottenham;MID;50.0;47.24333333333333
+Destiny Udogie;Tottenham;;40.0;36.36
+Djed Spence;Tottenham;;20.0;29.841666666666665
+Dominic Solanke;Tottenham;FWD;40.0;36.82
+Fraser Forster;Tottenham;GK;1.0;1.3505000000000011
+Guglielmo Vicario;Tottenham;GK;32.0;29.723333333333333
+James Maddison;Tottenham;MID;42.0;41.815
+Kevin Danso;Tottenham;;25.0;21.295
+Lucas Bergvall;Tottenham;MID;38.0;34.34166666666667
+Mathys Tel;Tottenham;FWD;35.0;29.163333333333334
+Micky van de Ven;Tottenham;;50.0;41.31166666666667
+Mikey Moore;Tottenham;FWD;18.0;15.371666666666666
+Pape Matar Sarr;Tottenham;MID;32.0;32.67
+Pedro Porro;Tottenham;;38.0;36.14333333333333
+Radu Drăgușin;Tottenham;;25.0;24.398333333333333
+Richarlison;Tottenham;FWD;20.0;19.23
+Rodrigo Bentancur;Tottenham;MID;30.0;26.713333333333335
+Sergio Reguilón;Tottenham;;6.0;6.513333333333334
+Son Heung-min;Tottenham;FWD;;26.829666666666665
+Timo Werner;Tottenham;MID;7.0;11.313333333333333
+Wilson Odobert;Tottenham;MID;20.0;20.515
+Yves Bissouma;Tottenham;MID;25.0;24.513333333333332
+Aaron Cresswell;West Ham;;0.5;1.3236666666666668
+Aaron Wan-Bissaka;West Ham;;24.0;27.323333333333334
+Alphonse Areola;West Ham;GK;9.0;8.940166666666668
+Andy Irving;West Ham;MID;;12.075
+Carlos Soler;West Ham;MID;18.0;16.593333333333334
+Crysencio Summerville;West Ham;MID;22.0;19.593333333333334
+Danny Ings;West Ham;MID;6.0;6.534
+Edson Álvarez;West Ham;MID;25.0;22.453333333333333
+Emerson Palmieri;West Ham;;;10.49883333333333
+Evan Ferguson;West Ham;FWD;25.0;24.085
+Evan Ferguson;West Ham;FWD;25.0;24.085
+Guido Rodríguez;West Ham;MID;10.0;8.804666666666668
+James Ward-Prowse;West Ham;MID;8.0;9.555666666666665
+James Ward-Prowse;West Ham;MID;8.0;9.555666666666665
+Jarrod Bowen;West Ham;MID;40.0;39.29333333333334
+Jean-Clair Todibo;West Ham;;25.0;24.316666666666666
+Konstantinos Mavropanos;West Ham;;17.0;18.756666666666668
+Lucas Paquetá;West Ham;MID;28.0;29.916666666666668
+Luis Guilherme;West Ham;MID;15.0;14.1
+Max Kilman;West Ham;;;31.095
+Michail Antonio;West Ham;FWD;0.7;5.2058333333333335
+Mohammed Kudus;West Ham;MID;45.0;45.223333333333336
+Niclas Füllkrug;West Ham;FWD;10.0;9.1
+Oliver Scarles;West Ham;FWD;8.0;16.43
+Tomáš Souček;West Ham;MID;18.0;15.244166666666667
+Vladimír Coufal;West Ham;;5.0;5.714
+Łukasz Fabiański;West Ham;GK;0.5;1.2788333333333335
+André;Wolves;MID;28.0;29.416666666666668
+Carlos Forbs;Wolves;MID;8.0;9.316666666666666
+Craig Dawson;Wolves;;1.5;2.0946666666666665
+Daniel Bentley;Wolves;GK;1.5;4.903000000000004
+Emmanuel Agbadou;Wolves;;20.0;20.653333333333332
+Gonçalo Guedes;Wolves;MID;11.0;13.61
+Hwang Hee-chan;Wolves;MID;;11.968
+Jean-Ricner Bellegarde;Wolves;MID;18.0;20.696666666666665
+José Sá;Wolves;GK;7.0;9.865166666666665
+João Gomes;Wolves;MID;40.0;35.84
+Jørgen Strand Larsen;Wolves;FWD;30.0;29.83
+Mario Lemina;Wolves;MID;7.5;6.716
+Marshall Munetsi;Wolves;MID;15.0;16.488333333333333
+Matheus Cunha;Wolves;MID;60.0;44.096666666666664
+Matt Doherty;Wolves;;2.0;9.006
+Nélson Semedo;Wolves;;9.0;11.744
+Pablo Sarabia;Wolves;MID;5.0;6.861833333333334
+Rayan Aït-Nouri;Wolves;;35.0;34.583333333333336
+Rodrigo Gomes;Wolves;FWD;15.0;15.84
+Sam Johnstone;Wolves;GK;6.0;4.543000000000002
+Santiago Bueno;Wolves;;10.0;14.157333333333332
+Tommy Doyle;Wolves;MID;10.0;12.55
+Toti Gomes;Wolves;;;28.273333333333333
+Yerson Mosquera;Wolves;;8.0;9.0

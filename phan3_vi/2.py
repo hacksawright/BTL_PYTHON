@@ -1,4 +1,4 @@
-# file: model_player_valuation.py
+
 import re
 import sqlite3
 import pandas as pd
@@ -67,7 +67,7 @@ def normalize_position(v):
     if pd.isna(v): return np.nan
     s = str(v).lower()
     if 'gk' in s or 'goal' in s: return 'GK'
-    if any(x in s for x in ['df','cb','lb','rb']): return 'DEF'
+    if any(x in s for x in ['def','cb','lb','rb']): return 'DEF'
     if any(x in s for x in ['mid','cm','cam','mf']): return 'MID'
     if any(x in s for x in ['fw','st','striker','forward','cf']): return 'FWD'
     return np.nan
@@ -122,6 +122,5 @@ df['predicted_value_million'] = model.predict(imp.transform(df[num_cols]))
 output_df = df[['Player', 'Team', 'Position_group', 'market_value_million', 'predicted_value_million']]
 output_df.to_csv("player_valuation_results.csv", index=False)
 
-joblib.dump({'model': model, 'imputer': imp, 'features': num_cols}, "rf_player_value_model.joblib")
 
-print("\n✅ Đã lưu kết quả ra file player_valuation_results.csv và model rf_player_value_model.joblib")
+print("\n✅ Đã lưu kết quả ra file player_valuation_results.csv ")
